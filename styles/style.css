@@ -25,7 +25,7 @@ main{
     display: flex;
     align-items: center;
 }
-a{
+.navegador{
     margin: 5px;
     color: white;
     text-decoration: none;
@@ -67,7 +67,6 @@ a{
     align-items: center;
     margin: 1%;
     justify-items: space-between;
-    background-color: white;
 }
 .anuncio{
     background-color: #6146f1;
@@ -93,11 +92,38 @@ a{
     border-radius: 10px;
     background-color: white;
     width: 20%;
-    
+    padding: 2%;
+    height: 80%;
 }
 .atividades{
     display: flex;
     align-items: center;
     justify-content: space-between;
+
+}
+.CH{
+    color:#F4511F ;
+    text-decoration: none;
+    font-size:x-large;
+}
+.CN{
+    color:#62AB97 ;
+    text-decoration: none;
+    font-size:x-large;
+
+
+}
+.Linguagens{
+    color:#00829C ;
+    text-decoration: none;
+    font-size:x-large;
+
+
+}
+.Mat{
+    color: #9858D6;
+    text-decoration: none;
+    font-size:x-large;
+
 
 }
