@@ -1,0 +1,1 @@
+const mensagem = document.getElementById('mensagem');
