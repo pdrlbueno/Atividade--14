@@ -1,0 +1,77 @@
+body {
+    background-color: white;
+    padding: 0;
+    margin: 0;
+}
+
+header {
+    background-color: #6146f1;
+    padding-left: 20%;
+    padding-right: 20%;
+    display: flex;
+    justify-content: space-between;
+}
+main{
+    padding-left: 20%;
+    padding-right: 20%;
+}
+
+.sessao2 {
+    display: flex;
+    align-items: center;
+}
+
+.sessao1 {
+    display: flex;
+    align-items: center;
+}
+a{
+    margin: 5px;
+    color: white;
+    text-decoration: none;
+    font-size: large;
+}
+.caixaLinks{
+    display: flex;
+    align-items: center;
+}
+.icons{
+    
+    width: 20%;
+    height: 20%;
+}
+.principal{
+    display: flex;
+}
+.SessaoSemana{
+    display: flex;
+    flex-direction: column;
+    width: 73%;
+}
+.centro{
+    text-align: center;
+}
+.box{
+    background-color: white;
+    border-radius: 3px;
+    border-style:solid;
+    margin: 2%;
+    width: 100%;
+    color: gray;
+    border-width: 2px;
+    padding: 2%;
+
+}
+.SessaoDia{
+    display: flex;
+    align-items: center;
+    margin: 1%;
+    justify-items: space-between;
+}
+.anuncio{
+    background-color: #6146f1;
+    height: 40%;
+    width: 25%;
+    padding: 30px;
+}
+
