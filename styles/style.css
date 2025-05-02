@@ -1,5 +1,5 @@
 body {
-    background-color: white;
+    background-color:aliceblue;
     padding: 0;
     margin: 0;
 }
@@ -67,6 +67,7 @@ a{
     align-items: center;
     margin: 1%;
     justify-items: space-between;
+    background-color: white;
 }
 .anuncio{
     background-color: #6146f1;
@@ -74,4 +75,29 @@ a{
     width: 25%;
     padding: 30px;
 }
+.BoxAtividades{
+    width: 100%;
+    height: 20%;
+    border-color: green;
+    border-style: solid;
+    border-top: 0;
+    border-right: 0;
+    border-bottom: 0;
+    border-left: 10;
+    border-radius: 8px;
+    text-align: center;
+    margin-bottom: 4%;
+    background-color: white;
+}
+.Atvmateria {
+    border-radius: 10px;
+    background-color: white;
+    width: 20%;
+    
+}
+.atividades{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
 
+}
