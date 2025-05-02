@@ -183,3 +183,30 @@ main {
     text-decoration: none;
 
 }
+.ciencias{
+    background-color: #62AB97;
+    display: flex;
+    align-items: center;
+
+    justify-content: flex-start;
+    border: 0;
+    padding: 0;
+}
+.matematica{
+    background-color: #9858D6;
+    display: flex;
+    align-items: center;
+
+    justify-content: flex-start;
+    border: 0;
+    padding: 0;
+}
+.linguas{
+    background-color: #00829C;
+    display: flex;
+    align-items: center;
+
+    justify-content: flex-start;
+    border: 0;
+    padding: 0;
+}
